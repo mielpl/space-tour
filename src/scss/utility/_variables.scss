@@ -1,0 +1,29 @@
+@use '../utility/functions' as func;
+
+// Colors
+$black: hsl(230, 35%, 7%);
+$gray: hsl(231, 77%, 90%);
+$white: hsl(0, 0%, 100%);
+
+// Typography
+$font-sans: 'Barlow Condensed', sans-serif;
+$font-sans2: 'Barlow', sans-serif;
+$font-serif: 'Bellefair', serif;
+
+// font size
+$h1: func.rem(150);
+$h2: func.rem(100);
+$h3: func.rem(56);
+$h4: func.rem(32);
+$h5: func.rem(28);
+$text: func.rem(16);
+
+$sh1: func.rem(28);
+$sh2: func.rem(14);
+// font letter spacing
+$h5-ls: 4.75;
+$sh2-ls: 2.35;
+$text-ls: 2.7;
+
+// font weight
+$reg: 300;
