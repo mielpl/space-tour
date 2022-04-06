@@ -1,8 +1,8 @@
 {
-	"name": "space-tourism-website",
+	"name": "space-tourism",
 	"author": "Abdilaziz",
 	"description": "A challenge from FrontendMentor to develop a multipage website using ReactJS",
-	"homepage": "http://mielpl.github.io/space-tourism-website",
+	"homepage": "https://mielpl.github.io/space-tour",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
